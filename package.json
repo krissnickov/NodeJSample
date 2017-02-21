@@ -1,0 +1,24 @@
+{
+  "name": "emnovate-deploy-sample",
+  "version": "0.2.1",
+  "description": "EmnovateNodeApp a simple NodeJS application.",
+  "main": "server.js",
+  "author": {
+    "name": "Kriss Nickov",
+    "email": "kriss@emnovate.com",
+    "url": "http://www.emnovate.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "underscore": "^1.8.3",
+    "vash": "^0.12.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2"
+  }
+}
